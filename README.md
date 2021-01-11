@@ -7,8 +7,11 @@
 
 # Usage
 [+] Python Host-Maker.py
+
 [+] Put ur GTPS IP
+
 [+] Enter
+
 [+] Done
 
 # Preview
