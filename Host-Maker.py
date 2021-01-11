@@ -7,7 +7,6 @@ print("[ $ ] iFanpS Host-Maker")
 ip = input("[ ? ] Put ur GTPS IP:")
 os.system('cls')
 asu=False
-delIP=False
 try:
 	with open('host.txt', 'r') as konz:
 		if f"{ip} growtopia1.com" in konz.read():
